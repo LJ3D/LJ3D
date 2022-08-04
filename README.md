@@ -3,5 +3,5 @@
 </p>
 
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=&duration=2000&color=000000&background=FFFFFF&center=true&vCenter=true&multiline=true&width=175&lines=Tux+my+beloved" alt="Typing SVG" /></a>
+  Tux my beloved
 </p>
